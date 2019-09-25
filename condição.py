@@ -1,5 +1,12 @@
 #COMPARADORES == >= <= > < !=
 
+# ==	igual
+# !=	diferente
+# >	maior
+# <	menor
+# >=	maior ou igual
+# <=	menor ou igual
+
 # IF (SI) ELSE (CASO AO CONTRÁRIO)
 
 idade = 61
