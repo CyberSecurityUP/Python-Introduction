@@ -1,5 +1,12 @@
 #COMPARADORES == >= <= != < >
 
+# ==	igual
+# !=	diferente
+# >	maior
+# <	menor
+# >=	maior ou igual
+# <=	menor ou igual
+
 a = 1
 b = 2
 if a==b == True:
